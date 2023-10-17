@@ -4,9 +4,10 @@
 
 This repository documents my journey in learning Machine Learning through the "Machine Learning Specialization" course offered on Coursera. The course is instructed by Andrew Ng and provides a comprehensive introduction to the field of machine learning.
 ## My certificate
+### Machine Learning Specialization [Done](https://www.coursera.org/account/accomplishments/specialization/certificate/7UKWHZHWM3JG)
 - Supervised learning -> [here](https://www.coursera.org/account/accomplishments/certificate/PY8QE7QYUK5B)
 - Advanced learning algorithms -> [here](https://www.coursera.org/account/accomplishments/certificate/TNVZREECFQB8)
-- Unsupervised learning, recommender, reinforcement learning ...**Ongoing**
+- Unsupervised learning, recommender, reinforcement learning [here](https://www.coursera.org/account/accomplishments/certificate/8WDNNMQZ968Y)
 ## Course Details
 
 - **Course Title:** Machine Learning
